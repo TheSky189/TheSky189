@@ -1,5 +1,7 @@
 ## Hi there 👋
-Description: Only and one. 😴  Name: Sky or AkaliX (is the same.)
+Description: 
+  -  Only and one. 😴
+  -  My nickname's: Sky or AkaliX (is the same.)
 
   -  Just a young student and I'll like to receive recommendations about some type 🤔 to quick ⚡ learning or easy to understand to learn, like platform that need u learn and understand STEP by STEP.
   -  🌱 I'm currently learning about Multiplatform Application Development.
