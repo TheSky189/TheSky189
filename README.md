@@ -1,7 +1,10 @@
 ## Hi there 👋
+Description: Only and one. 😴  Name: Sky or AkaliX (is the same.)
 
-Only and one .
+  -  Just a young student and I'll like to receive recommendations about some type 🤔 to quick ⚡ learning or easy to understand to learn, like platform that need u learn and understand STEP by STEP.
+  -  🌱 I'm currently learning about Multiplatform Application Development.
 
+Thanks for your visit. 😼
 <!--
 **TheSky189/TheSky189** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
