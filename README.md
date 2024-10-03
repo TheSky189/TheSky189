@@ -1,21 +1,21 @@
-<h1 align="left">Hi there 👋</h1>
+<h1 align="left">Hi 👋, My name's TheSky. </h1>
 
 ###
 
-<p align="left">Description:<br><br>Only and one. 😴<br>My nickname's: Sky or AkaliX (is the same.) If you want to share your experience hhh.🧐<br>Just a young student and I'll like to receive recommendations about some type 🤔 to quick ⚡ learning or easy to understand to learn, like platform that need u learn and understand STEP by STEP.<br>🌱 I'm currently learning about Multiplatform Application Development.<br>Thanks for your visit. 😼</p>
+<p align="left">Something about me -><br>Only and one. 😴<br><br>If you want to share your experience hhh.🧐<br>Just a young student and I'll like to receive recommendations about some type 🤔 to quick ⚡ learning <br>or easy to understand to learn, like platform that need u learn and understand STEP by STEP.<br><br>I'm currently learning about Multiplatform Application Development.🌱<br>Thanks for your visit. 😼</p>
 
   
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheSky189&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="130" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheSky189&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="130" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=TheSky189&theme=dracula&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheSky189&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="140" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheSky189&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="140" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=TheSky189&theme=dracula&no-frame=true&no-bg=true" height="90" alt="trophy graph"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
@@ -47,13 +47,17 @@
 
 ###
 
-<br clear="both">
+<br clear="both">  
 
-<img align="right" height="120" src="https://tenor.com/bUoDS.gif" />
+<!--
+<div align="center">
+<img src="https://tenor.com/bUoDS.gif" align="right" height="30"  />
+</div>
+-->
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.twitch.tv/thesky0918" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
@@ -71,8 +75,9 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/TheSky189/TheSky189/output/snake.svg" alt="Snake animation" />
+<div align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" height="160"  />
+</div>
 
 ###
 
