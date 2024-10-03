@@ -5,15 +5,16 @@
 <p align="left">Something about me -><br>Only and one. 😴<br><br>If you want to share your experience hhh.🧐<br>Just a young student and I'll like to receive recommendations about some type 🤔 to quick ⚡ learning <br>or easy to understand to learn, like platform that need u learn and understand STEP by STEP.<br><br>I'm currently learning about Multiplatform Application Development.🌱<br>Thanks for your visit. 😼</p>
 
   
-<!--###
+###
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=TheSky189&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="140" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheSky189&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="140" alt="languages graph"  />
+  <!--
   <img src="https://github-profile-trophy.vercel.app?username=TheSky189&theme=dracula&no-frame=true&no-bg=true" height="90" alt="trophy graph"  />
-</div>
+</div> -->
 
-### -->
+<!-- ### -->
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
