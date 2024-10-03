@@ -56,7 +56,7 @@
 </div>
 -->
 
-<!-- ### -->
+<!-- ### 
 
 <div align="left">
   <a href="https://www.twitch.tv/thesky0918" target="_blank">
@@ -67,7 +67,7 @@
   </a>
   <a href="mailto:kenkaneki94tg@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="42" alt="gmail logo"  />
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/jiajiao-xu/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="42" alt="linkedin logo"  />
   </a>
