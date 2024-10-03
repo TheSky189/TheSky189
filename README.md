@@ -49,7 +49,7 @@
 
 <br clear="both">
 
-<img align="right" height="120" src="https://tenor.com/bUoDS.gif"  />
+<img align="right" height="120" src="https://tenor.com/bUoDS.gif" />
 
 ###
 
