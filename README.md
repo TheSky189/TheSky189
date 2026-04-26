@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Something about me -><br>Only and one. 😴<br><br>If you want to share your experience hhh.🧐<br>Just a young student and I'll like to receive recommendations about some type 🤔 to quick ⚡ learning <br>or easy to understand to learn, like platform that need u learn and understand STEP by STEP.<br><br>I'm currently learning about Multiplatform Application Development.🌱<br>Thanks for your visit. 😼</p>
+<p align="left">Something about me -><br>Only and one. 😴<br><br>If you want to share your experience.🧐<br>Just a young student and I'll like to receive recommendations about some type 🤔 to quick ⚡ learning <br>or easy to understand to learn, like platform that need u learn and understand STEP by STEP.<br><br>I'm currently learning about Multiplatform Application Development.🌱<br>Thanks for your visit. 😼</p>
 
   
 ###
